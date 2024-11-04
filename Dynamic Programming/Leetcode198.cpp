@@ -1,4 +1,4 @@
-//HOUSE ROBBER BY MEMO
+//HOUSE ROBBER BY MEMOIZATION
 
 class Solution {
 public:
