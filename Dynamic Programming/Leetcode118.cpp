@@ -1,4 +1,4 @@
-//PASCAL TRIANGLE
+//PASCAL TRIANGLES
 
 
 class Solution {
