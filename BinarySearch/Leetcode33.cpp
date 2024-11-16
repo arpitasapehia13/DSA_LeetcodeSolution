@@ -1,5 +1,4 @@
 // SEARCH IN ROTATED SORTED ARRAY
-
 class Solution
 {
 public:
