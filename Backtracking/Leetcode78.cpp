@@ -1,6 +1,4 @@
 // SUBSETS PROBLEM
-
-
 class Solution
 {
 public:
