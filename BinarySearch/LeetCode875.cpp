@@ -1,5 +1,4 @@
 // KOKO EATING BANANAS
-
 class Solution
 {
 public:
