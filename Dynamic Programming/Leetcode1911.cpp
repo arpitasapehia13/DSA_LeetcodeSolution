@@ -1,3 +1,5 @@
+//MAXIMUM ALTERNATING SUBSEQUENCE SUM
+
 class Solution {
 public:
     int n;
